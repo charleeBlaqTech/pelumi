@@ -1,0 +1,8 @@
+a{
+    color: palevioletred;
+}
+
+table, td, tr, th{
+    border: 2px dotted black;
+    border-radius: 10px;
+}
